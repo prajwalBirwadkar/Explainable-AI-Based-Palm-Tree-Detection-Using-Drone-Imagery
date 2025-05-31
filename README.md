@@ -149,9 +149,7 @@ def analyze_privacy_implications(model, dataset):
 - **Output**: Bounding box coordinates, confidence scores, and Grad-CAM visualizations
 - **Performance**: Inference time depends on image size and hardware (CPU/GPU)
 
-## License
 
-[Add your license information here]
 
 ## Acknowledgments
 
@@ -159,4 +157,4 @@ This project was created as part of the Responsible AI initiative, using PyTorch
 
 ## Contact
 
-[Add your contact information here]
+Prajwalbirwadkar@gmail.com
